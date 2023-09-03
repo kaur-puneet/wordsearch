@@ -1,8 +1,8 @@
 # Word Search Puzzle Solver
 
-## Author: Puneet Kaur
-## Date: March 7, 2022
-## Time: 6:00 PM
+#### Author: Puneet Kaur
+#### Date: March 7, 2022
+#### Time: 6:00 PM
 
 This is a C program designed to find the location of a given word in a word search puzzle. It uses a grid of characters and searches for the specified word in eight possible directions: north, north-east, east, south-east, south, south-west, west, and north-west.
 
